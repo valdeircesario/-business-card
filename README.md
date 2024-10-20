@@ -16,8 +16,7 @@ Veja abaixo algumas capturas de tela do MeuPortfolio:
 
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
     <div style="margin-bottom: 20px;">
-        <img src="https://github.com/user-attachments/assets/e67ff629-505a-471e-ba85-e42a289935c6
- " alt="Página Inicial" width="400">
+        <img src="https://github.com/user-attachments/assets/e67ff629-505a-471e-ba85-e42a289935c6" alt="Página Inicial" width="400">
         <p><em>Figura 1:Busnes Card.</em></p>
     </div>
     <div style="margin-bottom: 20px;">
