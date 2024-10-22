@@ -4,7 +4,7 @@ Meu Cartão de Visita é uma apresentação pessoal que destaca minhas habilidad
 
 ## Link do Cartão de Visita
 
-Acesse meu cartão de visita online aqui: [Meu Cartão de Visita](https://valdeircesario.github.io/Business-card/)
+Acesse meu cartão de visita online aqui: [Meu Cartão de Visita]()
 
 ## Visão Geral
 
@@ -16,11 +16,11 @@ Veja abaixo algumas capturas de tela do MeuPortfolio:
 
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
     <div style="margin-bottom: 20px;">
-        <img src="https://github.com/user-attachments/assets/e67ff629-505a-471e-ba85-e42a289935c6" alt="Página Inicial" width="400">
+        <img src="  " alt="Página Inicial" width="400">
         <p><em>Figura 1:Busnes Card.</em></p>
     </div>
     <div style="margin-bottom: 20px;">
-        <img src="https://github.com/user-attachments/assets/4b44b701-2454-4401-a3eb-303f470cf871" alt="Seção Sobre Mim" width="400">
+        <img src="  " alt="Seção Sobre Mim" width="400">
         <p><em>Figura 2:Business card.</em></p>
     </div>
     
