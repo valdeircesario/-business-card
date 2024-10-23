@@ -4,6 +4,7 @@ body{
   background-color: rgb(242, 245, 244);
   margin: 0%;
   height: 0%;
+  
 }
 
 .cartao{
@@ -12,9 +13,9 @@ body{
   align-items: center;
 }
 .card-client {
-  margin-top: 120px;
-  height: 30rem;
-  background: #0d0e0e;
+  margin-top: 100px;
+  height: 31rem;
+  background-image: url('https://i.gifer.com/QFNv.gif');
   width: 17rem;
   padding-top: 25px;
   padding-bottom: 25px;
