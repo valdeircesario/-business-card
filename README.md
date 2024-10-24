@@ -16,11 +16,11 @@ Veja abaixo algumas capturas de tela do MeuPortfolio:
 
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
     <div style="margin-bottom: 20px;">
-        <img src="card1.png" alt="Página Inicial" width="400">
+        <img src="card10.png" alt="Página Inicial" width="400">
         <p><em>Figura 1:Busnes Card.</em></p>
     </div>
     <div style="margin-bottom: 20px;">
-        <img src="card2.png" alt="Seção Sobre Mim" width="400">
+        <img src="card11.png" alt="Seção Sobre Mim" width="400">
         <p><em>Figura 2:Business card.</em></p>
     </div>
     
